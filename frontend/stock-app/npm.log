@@ -1,0 +1,5 @@
+
+> stock-app@0.1.0 serve
+> vue-cli-service serve
+
+sh: 1: vue-cli-service: not found
